@@ -1,0 +1,14 @@
+# intro-assignment-summary-ps1
+
+I studied and coded along the four video tutorials given to me as an intoductory assignment for my PS1 internship and here is the summary of the same.
+
+First video- It is a beginners course in python which teaches python from the basics starting from the topics such as varaiables, loops, data types etc and the second part of the video contains three projects coded using python. I learned to apply the concepts of loops, if else statements fron the mini projects/challanges given throughout the video such as making a car game or converting the weight from one unit to another. In projects, the first one is automating the task of editing excel files and plotting graph on the same excel file. The second one is about machine learning which gave me a peak into what machine learning looks like. It uses decision tree algorithm to train a machine learning model for a music recommendation engine. Tne model is trained on a small data which predicts the musical genre for people based on their gender and age. The third one is a web app created using Django and python. Django is a framework based on python which can be used to create webapps. All in all it is a good introductory video for someone like me who is new to python. The code of these projects is pushed on github by me.
+
+Second video- It is a free udemy course on how to use git and github. The basic workflow is to bring the files or folders from working directory to staging area by using "git add" command. Then we commit the changes using "git commit" also adding some comments to the commit. Till now the changes are in the local system only. Once we use "git push" the changes go online and are reflected in the repository. It will take some time for me to get used to the git and github workflow but the tutorial is a good starting point.
+
+Third video- It is a udemy course on linux shell scripting. I have heard many times that linux is very powerful for programmers. The "Intro to Linux Shell Scripting" course was an excellent opportunity for beginners like me to dive into the world of shell scripting in the Linux environment. Throughout the course, I learned the essential concepts and techniques needed to write efficient scripts using languages like Bash. From navigating the command line to manipulating files and managing processes, I gained practical skills that are crucial for automating tasks and solving complex problems in system administration. Through hands-on exercises and real-world examples, the course provided me with a solid foundation in Linux shell scripting and helped me enhance my proficiency.
+
+Fourth video- It is an updated version of the first video. It consists of the basic language concepts I had already studied in the first video. It has concepts like variables, type conversions, if else statements etc.
+
+
+
